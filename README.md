@@ -1,6 +1,6 @@
-<img src="imagemGitHub.jpeg" width="450" height="650"> 
+<img align="right" src="imagemGitHub.jpeg" width="450" height="650"> 
 <h1>🌟 Apresentação da Grace 🌟</h1> 
-<p1 style="font-family: Alex Brush; font-size: 15px;"> >  
+<p1 style="font-family: Alex Brush; font-size: 27px;"> >  
 Nome: Grace <br>
 Profissão: Estagiária de Desenvolvimento de Software<br>
 Empresa: Globaltec Senior Sistemas<br>
