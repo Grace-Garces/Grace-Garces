@@ -1,12 +1,12 @@
-<p1>  <h1>🌟 Apresentação da Grace 🌟</p1> 
-<p style="font-family: Alex Brush; font-size: 15px;"> Nome: Grace <br>
+<p1 style="font-family: Alex Brush; font-size: 15px;"> >  <h1>🌟 Apresentação da Grace 🌟</h1> 
+Nome: Grace <br>
 Profissão: Estagiária de Desenvolvimento de Software<br>
 Empresa: Globaltec Senior Sistemas<br>
 Hobbies:
 🎨 Design
 🎮 Jogar
 💻 Programar
-🎬 Assistir Filmes  </p> <img src="imagemGitHub.jpeg" width="450" height="650"> 
+🎬 Assistir Filmes  </p1> <img src="imagemGitHub.jpeg" width="450" height="650"> 
 
 ![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula)
 
