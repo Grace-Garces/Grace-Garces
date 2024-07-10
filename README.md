@@ -3,7 +3,7 @@
 <br>
 <br>
 <h1>🌟 Olá, Bem-Vindos ao meu GitHub🌟</h1> 
-<p1 style="font-family: Alex Brush; font-size: 60px;">
+<p style="font-family: Alex Brush; font-size: 60px;">
 Desenvolvedora .NET Junior <br><br>
 Atualmente Estagiando como Desenvolvedora de Software<br><br>
 Na empresa Globaltec Senior Sistemas<br><br>
@@ -11,7 +11,7 @@ Hobbies:
 🎨 Design
 🎮 Jogar
 💻 Programar
-🎬 Assistir Filmes  </p1> 
+🎬 Assistir Filmes  </p> 
 
 ![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula)
 
