@@ -4,6 +4,11 @@
 ![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces)](https://github.com/Grace-Garces/github-readme-stats)
 
 
+<img src="https://raw.githubusercontent.com/Grace-Garces/Grace-Garces/output/snake.svg" alt="Snake animation" />
+
+
+###
+
 ## Tecnologias  que utilizo no meu dia-a-dia
 
 <div style="display: inline_block"><br/>
