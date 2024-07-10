@@ -1,4 +1,4 @@
-## <span style="color:#FF85A2">Oiie, bem-vindos ao meu GitHub!! 🫡❣️</span>
+## <span style="color:Pink">Oiie, bem-vindos ao meu GitHub!! 🫡❣️</span>
 <br>
 
 ![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&show_icons=true&theme=dracula)](https://github.com/Grace-Garces/github-readme-stats)
