@@ -1,11 +1,7 @@
 ## *Oiie, bem-vindos ao meu GitHub!! 🫡❣️*
 <br>
 
-![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=) 
-<br>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&layout=compact)
+![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&layout=compact)
 
 
 ## Tecnologias  que utilizo no meu dia-a-dia
