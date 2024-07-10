@@ -3,7 +3,7 @@
 <h1>🌟 Olá, Bem-Vindos ao meu GitHub🌟</h1> 
 <p style="font-family: Alex Brush; font-size: 60px;"> <b>
 👨‍💻 Desenvolvedora .NET Junior <br><br>
-Atualmente Estagiando como Desenvolvedora de Software 💻<br><br>
+💻Atualmente Estagiando como Desenvolvedora de Software <br><br>
 👩🏽‍💼Na empresa Globaltec Senior Sistemas
 <br><br>
 Hobbies:
