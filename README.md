@@ -1,4 +1,4 @@
-<img align="right" src="imagemGitHub.jpeg" width="450" height="650"> 
+<img align="right" src="imagemGitHub.jpeg" width="350" height="550"> 
 <br>
 <h1>🌟 Olá, Bem-Vindos ao meu GitHub🌟</h1> 
 <p style="font-family: Alex Brush; font-size: 60px;"> <b>
@@ -12,7 +12,7 @@ Hobbies:
 💻 Programar
 🎬 Assistir Filmes </b>
 
-<h1>Minhas redes sociais ;D</h1>
+<h1>Minhas redes sociais 😋</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/grace-batista-103174210/)
