@@ -1,9 +1,15 @@
-<h1 style="font-family: Alex Brush; font-size: 40px; color: Pink;"> <img src="https://web.whatsapp.com/fc2b384d-f47f-4d09-be3f-1cb357bf2d77"> Bem-Vindos ao meu GitHub! </h1>
-<br>
+<h1 style="font-family: Alex Brush; font-size: 3px;"> <img src="imagemGitHub.jpeg" width="450" height="650">  <h1>🌟 Apresentação da Grace 🌟</h1> 
+<p> Nome: Grace </p> 
+<p>Profissão: Estagiária de Desenvolvimento de Software</p> 
+<p>Empresa: Globaltec Senior Sistemas</p> 
+<p>Hobbies:
+🎨 Design
+🎮 Jogar
+💻 Programar
+🎬 Assistir Filmes  </p> 
 
+![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula)
 
-
-![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula) <p style="font-family: Alex Brush; font-size: 40px; color: Pink;"> <img src="imagemGitHub.jpeg" width="450" height="650">  </p>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&show_icons=true&theme=dracula)](https://github.com/Grace-Garces/github-readme-stats) 
 
