@@ -1,13 +1,10 @@
-## <span style="color:Pink">Oiie, bem-vindos ao meu GitHub!! 🫡❣️</span>
+## <span style="color:Pink">Saudações!</span>
 <br>
 
 ![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&show_icons=true&theme=dracula)](https://github.com/Grace-Garces/github-readme-stats)
 
-    
 
-
-## <span style="color:#D9ACF5">Tecnologias  que utilizo no meu dia-a-dia</span>
-
+<h1 style="font-family: Alex Brush; font-size: 40px; color: Pink;"> <img src="https://img.icons8.com/?size=100&id=VInVwRr6GbDx&format=png&color=000000" width="50" height="50"/> Minhas HardSkills </h1>
 
 <div style="display: inline_block"><br/>
     <img align="center"= alt=".NET"src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
