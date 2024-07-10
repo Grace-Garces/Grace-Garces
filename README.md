@@ -1,4 +1,4 @@
-<img align="right" src="imagemGitHub.jpeg" width="350" height="550"> 
+<img align="right" src="imagemGitHub.jpeg" width="400" height="550"> 
 <br>
 <h1>🌟 Olá, Bem-Vindos ao meu GitHub🌟</h1> 
 <p style="font-family: Alex Brush; font-size: 60px;"> <b>
