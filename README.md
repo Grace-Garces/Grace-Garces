@@ -12,7 +12,7 @@ Hobbies:
 💻 Programar
 🎬 Assistir Filmes </b>
 
-<h1>Conecte-se comigo em:</h1>
+<h1> 📱 Conecte-se comigo em:</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/grace-batista-103174210/)
