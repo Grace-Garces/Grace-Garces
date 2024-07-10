@@ -5,7 +5,6 @@
 Desenvolvedora .NET Junior <br><br>
 Atualmente Estagiando como Desenvolvedora de Software<br><br>
 Na empresa Globaltec Senior Sistemas
-
 <br><br>
 Hobbies:
 🎨 Design
