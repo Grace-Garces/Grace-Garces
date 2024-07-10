@@ -1,7 +1,7 @@
 <img align="right" src="imagemGitHub.jpeg" width="450" height="650"> 
 <br>
 <h1>🌟 Olá, Bem-Vindos ao meu GitHub🌟</h1> 
-<p style="font-family: Alex Brush; font-size: 60px;">
+<p style="font-family: Alex Brush; font-size: 60px;"> <b>
 Desenvolvedora .NET Junior <br><br>
 Atualmente Estagiando como Desenvolvedora de Software<br><br>
 Na empresa Globaltec Senior Sistemas
@@ -10,7 +10,15 @@ Hobbies:
 🎨 Design
 🎮 Jogar
 💻 Programar
-🎬 Assistir Filmes 
+🎬 Assistir Filmes <b>
+
+<h1>Minhas redes sociais ;D</h1>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/grace-batista-103174210/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/gracek_xo/)
+
 
 <h1 style="font-family: Alex Brush; font-size: 40px; color: Pink;"> <img src="https://img.icons8.com/?size=100&id=yggUP2AbmFLz&format=png&color=000000" width="50" height="50"/> Minhas HardSkills </h1>
 
@@ -39,8 +47,4 @@ Hobbies:
 <br>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/grace-batista-103174210/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/gracek_xo/)
 
