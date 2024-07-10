@@ -10,7 +10,7 @@ Hobbies:
 🎨 Design
 🎮 Jogar
 💻 Programar
-🎬 Assistir Filmes <b>
+🎬 Assistir Filmes </b>
 
 <h1>Minhas redes sociais ;D</h1>
 
