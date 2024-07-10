@@ -1,5 +1,5 @@
-<p1 style="font-family: Alex Brush; font-size: 3px;"> >  <h1>🌟 Apresentação da Grace 🌟</p1> <img src="imagemGitHub.jpeg" width="450" height="650">
-<p style="font-family: Alex Brush; font-size: 23px;"> Nome: Grace <br>
+<p1>  <h1>🌟 Apresentação da Grace 🌟</p1> <img src="imagemGitHub.jpeg" width="450" height="650">
+<p style="font-family: Alex Brush; font-size: 15px;"> Nome: Grace <br>
 Profissão: Estagiária de Desenvolvimento de Software<br>
 Empresa: Globaltec Senior Sistemas<br>
 Hobbies:
