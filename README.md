@@ -11,7 +11,7 @@ Hobbies:
 🎮 Jogar
 💻 Programar
 🎬 Assistir Filmes </b>
-
+<br>
 <h1> 📱 Conecte-se comigo em:</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
