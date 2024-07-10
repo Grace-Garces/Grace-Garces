@@ -1,5 +1,4 @@
-<h1 style="font-family: Alex Brush; font-size: 40px; color: Pink;"> <iframe src="https://giphy.com/embed/W0K2ClzD1EJv4PRY7S" width="50" height="50" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/molangofficialpage-dance-dancing-party-W0K2ClzD1EJv4PRY7S"></a></p> Minhas HardSkills </h1>
-<br>
+
 
 ![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&show_icons=true&theme=dracula)](https://github.com/Grace-Garces/github-readme-stats)
 
