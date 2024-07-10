@@ -13,11 +13,13 @@ Hobbies:
 💻 Programar
 🎬 Assistir Filmes 
 
+![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&show_icons=true&theme=dracula)](https://github.com/Grace-Garces/github-readme-stats) 
 
  </p> 
 
-![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula)
 
 <br>
 
