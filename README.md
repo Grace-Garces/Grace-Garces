@@ -15,7 +15,7 @@
     <img align="center"= alt="MySQL"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     </div><br>
 
-    Olá! Sou Grace, uma estudante de Análise e Desenvolvimento de Sistemas com uma profunda paixão por tecnologia e uma aspiração em me tornar uma desenvolvedora FullStack. Atualmente, direciono meus esforços ao desenvolvimento BackEnd, buscando incessantemente oportunidades que não apenas me permitam aplicar, mas também aprimorar minhas habilidades técnicas.
+ *_Olá! Sou Grace, uma estudante de Análise e Desenvolvimento de Sistemas com uma profunda paixão por tecnologia e uma aspiração em me tornar uma desenvolvedora FullStack. Atualmente, direciono meus esforços ao desenvolvimento BackEnd, buscando incessantemente oportunidades que não apenas me permitam aplicar, mas também aprimorar minhas habilidades técnicas._*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/grace-batista-103174210/)
