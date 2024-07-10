@@ -1,4 +1,7 @@
 <img align="right" src="imagemGitHub.jpeg" width="450" height="650"> 
+<br>
+<br>
+<br>
 <h1>🌟 Olá, Bem-Vindos ao meu GitHub🌟</h1> 
 <p1 style="font-family: Alex Brush; font-size: 60px;">
 Desenvolvedora .NET Junior <br><br>
