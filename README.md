@@ -1,15 +1,13 @@
-## *Oiie, bem-vindos ao meu GitHub!! 🫡❣️*
+## <span style="color:#FF85A2">Oiie, bem-vindos ao meu GitHub!! 🫡❣️</span>
 <br>
 
-![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces)](https://github.com/Grace-Garces/github-readme-stats)
+![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&show_icons=true&theme=dracula)](https://github.com/Grace-Garces/github-readme-stats)
+
+    
 
 
-<img src="https://raw.githubusercontent.com/Grace-Garces/Grace-Garces/output/snake.svg" alt="Snake animation" />
+## <span style="color:#D9ACF5">Tecnologias  que utilizo no meu dia-a-dia</span>
 
-
-###
-
-## Tecnologias  que utilizo no meu dia-a-dia
 
 <div style="display: inline_block"><br/>
     <img align="center"= alt=".NET"src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
@@ -19,7 +17,7 @@
     </div><br>
 <br>
 
- *_Olá! Sou Grace, uma estudante de Análise e Desenvolvimento de Sistemas com uma profunda paixão por tecnologia e uma aspiração em me tornar uma desenvolvedora FullStack. Atualmente, direciono meus esforços ao desenvolvimento BackEnd, buscando incessantemente oportunidades que não apenas me permitam aplicar, mas também aprimorar minhas habilidades técnicas._*
+<span style='color:#FF80AB'> *_Olá! Sou Grace, uma estudante de Análise e Desenvolvimento de Sistemas com uma profunda paixão por tecnologia e uma aspiração em me tornar uma desenvolvedora FullStack. Atualmente, direciono meus esforços ao desenvolvimento BackEnd, buscando incessantemente oportunidades que não apenas me permitam aplicar, mas também aprimorar minhas habilidades técnicas._*</span>
 
 <br>
 <br>
