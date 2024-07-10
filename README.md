@@ -1,9 +1,9 @@
 <img align="right" src="imagemGitHub.jpeg" width="450" height="650"> 
-<h1>🌟 Apresentação da Grace 🌟</h1> 
-<p1 style="font-family: Alex Brush; font-size: 27px;"> >  
-Nome: Grace <br>
-Profissão: Estagiária de Desenvolvimento de Software<br>
-Empresa: Globaltec Senior Sistemas<br>
+<h1>🌟 Olá, Bem-Vindos ao meu GitHub🌟</h1> 
+<p1 style="font-family: Alex Brush; font-size: 40px;"> >  
+Nome: Grace <br><br>
+Profissão: Estagiária de Desenvolvimento de Software<br><br>
+Empresa: Globaltec Senior Sistemas<br><br>
 Hobbies:
 🎨 Design
 🎮 Jogar
