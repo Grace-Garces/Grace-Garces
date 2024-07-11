@@ -46,7 +46,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grace-Garces&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<br><h1 style="font-family: Alex Brush; font-size: 40px; color: Pink;"> <img src="https://img.icons8.com/?size=100&id=yggUP2AbmFLz&format=png&color=000000" width="50" height="50"/> Tecnologias que utilizo! </h1>
+<br><h1 align="center" style="font-family: Alex Brush; font-size: 40px; color: Pink;"> <img src="https://img.icons8.com/?size=100&id=yggUP2AbmFLz&format=png&color=000000" width="50" height="50"/> Tecnologias que utilizo! </h1>
 
 <div style="display: inline_block"><br/>
     <img align="center"= alt=".NET"src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
