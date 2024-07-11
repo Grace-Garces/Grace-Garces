@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Grace-Garces&color=green" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Grace-Garces&color=blue" alt="Profile views" /> </p>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=C71585&center=true&vCenter=true&random=false&width=1000&lines=Oii%2CBem-Vindos+ao+meu+GitHub;eu+sou+desenvolvedora+.NET+Junior;)](https://git.io/typing-svg)
@@ -29,7 +29,9 @@
 
 <span align="right"> _Olá! Sou Grace, uma estudante de Análise e Desenvolvimento de Sistemas com uma profunda paixão por tecnologia e uma aspiração em me tornar uma desenvolvedora FullStack. Atualmente, direciono meus esforços ao desenvolvimento BackEnd, buscando incessantemente oportunidades que não apenas me permitam aplicar, mas também aprimorar minhas habilidades técnicas._ </span>
 
-<br> <h1> 📱 Conecte-se comigo em:</h1>
+<br> <h1 align="center"> 📱 Conecte-se comigo em:</h1>
+
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/grace-batista-103174210/)
@@ -37,6 +39,7 @@
 )](https://www.instagram.com/gracek_xo/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Gracek_XOXO/)
 
+</p>
 
 <br><br><br>
 
