@@ -16,7 +16,7 @@
 💻 Programar
 🎬 Assistir Filmes </b>
 
-
+<br>
 <p align="Center"><b>🤳🏽 Um pouco sobre mim 🤳🏽</b></p>
 
 <span align="right"> _Olá! Sou Grace, uma estudante de Análise e Desenvolvimento de Sistemas com uma profunda paixão por tecnologia e uma aspiração em me tornar uma desenvolvedora FullStack. Atualmente, direciono meus esforços ao desenvolvimento BackEnd, buscando incessantemente oportunidades que não apenas me permitam aplicar, mas também aprimorar minhas habilidades técnicas._ </span>
