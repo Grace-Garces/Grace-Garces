@@ -17,9 +17,10 @@
 💻 Programar
 🎬 Assistir Filmes </b> </p>
 
+
 <br><br> <p align="center">•☽────✧˖°˖☆˖°˖✧────☾•</p>
  <div align="center">
-  <img height="200" width="1000" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9ocTUyN21xemE4a3ZhN2NrNGducXhrMXBoMzhydHZueHpuYmJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Lgzise6omAw9JJ08v/giphy.gif"/>
+  <img height="200" width="1000" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9ocTUyN21xemE4a3ZhN2NrNGducXhrMXBoMzhydHZueHpuYmJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Lgzise6omAw9JJ08v/giphy.gif"  />
 </div>
 
 
