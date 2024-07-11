@@ -20,11 +20,7 @@
 
 <br><br> <p align="center">•☽────✧˖°˖☆˖°˖✧────☾•</p>
  <div align="center">
-  <img height="200" width="1000" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9ocTUyN21xemE4a3ZhN2NrNGducXhrMXBoMzhydHZueHpuYmJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Lgzise6omAw9JJ08v/giphy.gif"  />
-</div>
-
- <div align="center">
-  <img height="200" width="1000" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk4ZnU1dzJkYTl1OHZ0NnNla2J2eWI3N25zMWNiNndnbDVndGlmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurFuCy8b1t6mwYtfo/giphy.gif"  />
+  <img height="200" width="900" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk4ZnU1dzJkYTl1OHZ0NnNla2J2eWI3N25zMWNiNndnbDVndGlmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurFuCy8b1t6mwYtfo/giphy.gif"  />
 </div>
 
 ###
