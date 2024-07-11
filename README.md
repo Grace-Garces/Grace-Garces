@@ -33,19 +33,17 @@
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/grace-batista-103174210/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/gracek_xo/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Gracek_XOXO/)
-[![Twitter/x](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)]()
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
-)]()
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
-)](https://leetcode.com/u/GraceGarces//)
-
-</p>
+<div align="center"> 
+<a href="https://www.instagram.com/gracek_xo/" target="_blank">
+<img align="center" height="45" width="45" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+</a>
+</a>
+<a href="mailto:cmp.1a.graceedevelopment@gmail.com">
+<img align="center"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+<a  href="https://www.linkedin.com/in/grace-batista-103174210/" target=_blank>
+<img align="center"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
 
 <br><br><br>
 
