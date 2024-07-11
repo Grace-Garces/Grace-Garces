@@ -1,7 +1,12 @@
-<h1 align="left"> Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/> Eu sou a Grace🌟 
- </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8B008B&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Grace;I'm+19+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Grace-Garces&color=green" alt="Profile views" /> </p>
 <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=C71585&center=true&vCenter=true&random=false&width=1000&lines=Oii%2CBem-Vindos+ao+meu+GitHub;eu+sou+desenvolvedora+.NET+Junior;)](https://git.io/typing-svg)
+
 - 👨‍💻Oii, sou uma Desenvolvedora .NET Junior! <br><br>
 - 💻Atualmente estou Estagiando como Desenvolvedora de Software <br><br>
 - 👩🏽‍💼Na empresa Globaltec Senior Sistemas
@@ -35,7 +40,7 @@
 
 <br><br><br>
 
-![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grace-Garces&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grace-Garces&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Grace-Garces"/>
 <br>
 
