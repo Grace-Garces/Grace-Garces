@@ -38,7 +38,7 @@
 <img align="center" height="45" width="45" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 </a>
-<a href="mailto:cmp.1a.graceedevelopment@gmail.com">
+<a href="mailto:graceedevelopment@gmail.com">
 <img align="center"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 <a  href="https://www.linkedin.com/in/grace-batista-103174210/" target=_blank>
