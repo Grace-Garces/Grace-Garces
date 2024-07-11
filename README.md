@@ -1,8 +1,12 @@
 
 <h1 align="left"> Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/> Eu sou a Grace🌟 
-<img align="right" src="ImagemPrincipal.jpeg" width="360" height="550"> </h1>
+ </h1>
 <br>
+<div align="right">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBjb2h0ZDByeGt6eDFhaDdvamRjanB0d2M2aWhhbXo4ajlvbzR6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IqofEGw44eAm3JooZI/giphy.gif"  />
+</div>
 
+###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Grace-Garces&color=green" alt="Profile views" /> </p>
 
 
