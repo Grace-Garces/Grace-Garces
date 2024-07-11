@@ -1,6 +1,6 @@
 
 <h1 align="left"> Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/> Eu sou a Grace🌟 
-<img align="right" src="ImagemPrincipal.jpeg" width="370" height="550"> </h1>
+<img align="right" src="ImagemPrincipal.jpeg" width="360" height="550"> </h1>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Grace-Garces&color=green" alt="Profile views" /> </p>
