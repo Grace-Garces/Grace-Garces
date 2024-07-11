@@ -1,12 +1,14 @@
 <img align="right" src="imagemGitHub.jpeg" width="400" height="520"> 
 <br>
-<h1>🌟 Olá, Bem-Vindos ao meu GitHub🌟</h1> 
-<p style="font-family: Alex Brush; font-size: 60px;"> <b>
-👨‍💻 Desenvolvedora .NET Junior <br><br>
-💻Atualmente Estagiando como Desenvolvedora de Software <br><br>
-👩🏽‍💼Na empresa Globaltec Senior Sistemas
+<h1 align="left"> Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Bem-Vindos ao meu GitHub🌟</h1> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Grace-Garces&color=green" alt="Profile views" /> </p>
+
+
+- 👨‍💻 Desenvolvedora .NET Junior <br><br>
+- 💻Atualmente Estagiando como Desenvolvedora de Software <br><br>
+- 👩🏽‍💼Na empresa Globaltec Senior Sistemas
 <br><br>
-Hobbies:
+- Hobbies:
 🎨 Design
 🎮 Jogar
 💻 Programar
