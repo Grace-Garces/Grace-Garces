@@ -23,7 +23,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Gracek_XOXO/)
 
 
-<br><br><br><br> 
+<br><br><br>
 
 ![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&show_icons=true&theme=dracula)](https://github.com/Grace-Garces/github-readme-stats) 
