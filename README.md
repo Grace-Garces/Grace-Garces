@@ -13,7 +13,7 @@
 🎬 Assistir Filmes </b>
 
 <div align="center">
-  <img height="200" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNmYW5xeXF2Y2dld21xMHlqcnBmdzI5YjFuZm16Z25tbHB1d3NwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YhFzQw0j4lPNu/giphy.gif"  />
+  <img height="150" width="1000" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNmYW5xeXF2Y2dld21xMHlqcnBmdzI5YjFuZm16Z25tbHB1d3NwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YhFzQw0j4lPNu/giphy.gif"  />
 </div>
 
 ###
