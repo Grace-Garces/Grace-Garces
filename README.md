@@ -24,9 +24,11 @@
 
 
 <br><br><br><br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&show_icons=true&theme=dracula)](https://github.com/Grace-Garces/github-readme-stats) 
 
 ![Grace GitHub stats](https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&show_icons=true&theme=dracula)](https://github.com/Grace-Garces/github-readme-stats) 
+
+
 
 <h1 style="font-family: Alex Brush; font-size: 40px; color: Pink;"> <img src="https://img.icons8.com/?size=100&id=yggUP2AbmFLz&format=png&color=000000" width="50" height="50"/> Minhas HardSkills </h1>
 
