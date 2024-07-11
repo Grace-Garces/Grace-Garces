@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=C71585&center=true&vCenter=true&random=false&width=1000&lines=Oii%2CBem-Vindos+ao+meu+GitHub;eu+sou+desenvolvedora+.NET+Junior;)](https://git.io/typing-svg)
 
-- 👨‍💻Oii, sou uma Desenvolvedora .NET Junior! <br><br>
+<p align="center">- 👨‍💻Oii, sou uma Desenvolvedora .NET Junior! <br><br>
 - 💻Atualmente estou Estagiando como Desenvolvedora de Software <br><br>
 - 👩🏽‍💼Na empresa Globaltec Senior Sistemas
 <br><br>
@@ -15,7 +15,7 @@
 🎨 Design
 🎮 Jogar
 💻 Programar
-🎬 Assistir Filmes </b>
+🎬 Assistir Filmes </b> </p>
 
 <br><br> <p align="center">•☽────✧˖°˖☆˖°˖✧────☾•</p>
  <div align="center">
