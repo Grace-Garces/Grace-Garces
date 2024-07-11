@@ -50,7 +50,7 @@
  <a href="https://github.com/Grace-Garces/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Grace-Garces&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Grace-Garces/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grace-Garces&layout=compact&theme=buefy&hide_border=true" /></a> |
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grace-Garces&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grace-Garces&bg_color=fdf6f6&color=9e4c98&line=ea8ad1&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br><h1 align="center" style="font-family: Alex Brush; font-size: 40px; color: Pink;"> <img src="https://img.icons8.com/?size=100&id=yggUP2AbmFLz&format=png&color=000000" width="50" height="50"/> Tecnologias que utilizo! </h1>
