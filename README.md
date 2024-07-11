@@ -1,9 +1,9 @@
 <h1 align="left"> Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/> Eu sou a Grace🌟 
  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Grace-Garces&color=green" alt="Profile views" /> </p>
-
-- 👨‍💻 Desenvolvedora .NET Junior <br><br>
-- 💻Atualmente Estagiando como Desenvolvedora de Software <br><br>
+<br>
+- 👨‍💻Oii, sou uma Desenvolvedora .NET Junior! <br><br>
+- 💻Atualmente estou Estagiando como Desenvolvedora de Software <br><br>
 - 👩🏽‍💼Na empresa Globaltec Senior Sistemas
 <br><br>
 - Hobbies:
