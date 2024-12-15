@@ -17,9 +17,9 @@
     text-align: center;
     color:rgb(189, 108, 70);
 ">
-    <p>Olá, recrutador! Olá, companheiro de profissão! 👋</p>
-    <p>Como vão vocês?</p>
-    <p>
+    <p  text-align: center> Olá, recrutador! Olá, companheiro de profissão! 👋</p>
+    <p text-align: center>Como vão vocês?</p>
+    <p text-align: center>
         Me chamo <strong>Grace</strong>, atualmente com <strong>20 anos</strong>.<br>
         Sou <strong>analista de dados júnior</strong>, apaixonada por tecnologia e sempre buscando<br>
         <strong>soluções práticas e simples</strong> para as pessoas, utilizando <strong>inteligência artificial</strong>.
