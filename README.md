@@ -44,7 +44,7 @@
     <a href="mailto:graceedevelopment@gmail.com">
         <img height="40" width="40" src="https://img.icons8.com/ios-glyphs/344/gmail.png">
     </a>
-    <a href="https://www.linkedin.com/in/grace-b-garces-103174210/" target="_blank">
+    <a href="https://www.linkedin.com/in/grace-garces/" target="_blank">
         <img height="40" width="40" src="https://img.icons8.com/ios-filled/344/linkedin.png">
     </a>
     <a href="https://www.instagram.com/celynk_xo/" target="_blank">
