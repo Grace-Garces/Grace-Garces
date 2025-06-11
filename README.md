@@ -7,27 +7,33 @@
 <h1 align="center">Oi, eu sou a Grace! 🚀</h1>
 
 <p align="center">
-    Cientista de Dados (Jr) apaixonada por transformar dados em inteligência estratégica. Trabalho com 
-    <strong>Machine Learning, análise preditiva e detecção de padrões</strong>, aplicando tecnologia para resolver problemas reais.
+    Desenvolvedora Fullstack Jr com foco em <strong>C# (.NET)</strong> e <strong>Angular</strong>. 
+    Apaixonada por criar soluções funcionais e intuitivas, que resolvem problemas reais com código limpo e eficiente.
 </p>
 
 ---
 
 ### 🔍 Sobre mim  
-- 🎯 Especialista em **modelagem estatística, automação de processos e detecção de fraudes**  
-- 🛠️ Trabalho com **Python, SQL, Power BI, Cloud (AWS, Azure) e Big Data**  
-- 📡 Interesse crescente por **engenharia de dados e inteligência artificial**  
-- 🌍 Já morei na Alemanha e estou aprimorando meu alemão para nível avançado  
+- 👩‍💻 Atualmente trabalhando como **Desenvolvedora Fullstack Jr**  
+- 🧠 Foco em **desenvolvimento de aplicações web com Angular e APIs REST em .NET (C#)**  
+- 🛠️ Experiência também com **SQL Server, Entity Framework, Azure e Git**  
+- 🌍 Já morei na Alemanha e estou estudando alemão para atingir o nível avançado  
+- 🚀 Buscando me especializar em **boas práticas de arquitetura, testes e segurança de aplicações**
 
 ---
 
 ### 🚀 Tecnologias que utilizo  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-F36321?style=for-the-badge&logo=apachespark&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
